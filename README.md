@@ -10,7 +10,7 @@ I'm passionate about turning pixel-perfect designs into seamless user experience
 
 🌱 I’m currently learning **Gsap**
 
-👯 I’m looking to collaborate on Projects can that solve real world problems
+👯 I’m looking to collaborate on projects can that solve real world problems
 
 👨‍💻 All of my projects are available at [https://ikshq-v1.vercel.app/](https://ikshq-v1.vercel.app/)
 
