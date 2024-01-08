@@ -7,8 +7,8 @@ I'm passionate about turning pixel-perfect designs into seamless user experience
 
 🌱 I’m currently learning **Gsap**
 
-👯 I’m looking to collaborate on **front-end web development Projects.**
+👯 I’m looking to collaborate on Projects can that solve real world problems
 
 👨‍💻 All of my projects are available at [https://ikshq-v1.vercel.app/](https://ikshq-v1.vercel.app/)
 
-📫 How to reach me **iykeugboko9@gmail.com**
+📫 You can reach me via **iykeugboko9@gmail.com**
