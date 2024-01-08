@@ -3,6 +3,7 @@
 I'm passionate about turning pixel-perfect designs into seamless user experiences. I specialize in frontend development, meticulously following design principles to craft visually stunning and intuitive interfaces. Let's build something beautiful together!
 
 **Languages and Frameworks**
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react)](https://skillicons.dev)
 
 🔭 I’m currently working on a website for an exciting game called **DayZero**(https://dayzero-demo.vercel.app/)
