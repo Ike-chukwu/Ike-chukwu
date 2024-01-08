@@ -7,7 +7,11 @@ I'm passionate about turning pixel-perfect designs into seamless user experience
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs)](https://skillicons.dev)
 
 🔭 I’m currently working on a website for an exciting game called **DayZero**(https://dayzero-demo.vercel.app/)
+
 🌱 I’m currently learning **Gsap**
+
 👯 I’m looking to collaborate on Projects can that solve real world problems
+
 👨‍💻 All of my projects are available at [https://ikshq-v1.vercel.app/](https://ikshq-v1.vercel.app/)
+
 📫 You can reach me via **iykeugboko9@gmail.com**
