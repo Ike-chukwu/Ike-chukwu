@@ -2,6 +2,8 @@
 
 I'm passionate about turning pixel-perfect designs into seamless user experiences. I specialize in frontend development, meticulously following design principles to craft visually stunning and intuitive interfaces. Let's build something beautiful together!
 
+**Languages and Frameworks**
+?i=js,html,css,sass,react,gsap
 
 🔭 I’m currently working on a website for an exciting game called **DayZero**(https://dayzero-demo.vercel.app/)
 
